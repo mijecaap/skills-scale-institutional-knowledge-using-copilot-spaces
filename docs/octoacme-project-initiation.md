@@ -31,10 +31,20 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
-- [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Sponsor identified and committed to providing support and resources
+- [ ] Sponsor / Stakeholder alignment meeting held (confirm business need and priority)
+- [ ] External stakeholders (key users) identified for feedback and validation
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+
+## Sponsor Engagement
+The Sponsor plays a critical role during initiation:
+- Reviews and approves the project one-pager
+- Confirms alignment with strategic priorities
+- Commits necessary budget and resources
+- Identifies any executive-level dependencies or constraints
+- Delegates authority to Project Manager and Product Manager for execution
 
 ## Decision Gate
 Move to planning when:
